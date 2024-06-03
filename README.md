@@ -29,6 +29,6 @@ You can [download](https://www.curseforge.com/minecraft/bukkit-plugins/teepeereq
 
 ## My Other Plugins
 
-- [RolePlayers](https://github.com/Kasej01/RolePlayers) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/teepeerequests) - RolePlayers adds custom classes
-- [HeadStash](https://github.com/Kasej01/HeadStash) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/headstash) - Inventory on death is saved in a head that can be retrieved
-- [EzHomes](https://github.com/KaseJ01/EzHomes) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/ezhomes) - Simple homes plugin
+- [RolePlayers Repo](https://github.com/Kasej01/RolePlayers) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/teepeerequests) - RolePlayers adds custom classes
+- [HeadStash Repo](https://github.com/Kasej01/HeadStash) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/headstash) - Inventory on death is saved in a head that can be retrieved
+- [EzHomes Repo](https://github.com/KaseJ01/EzHomes) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/ezhomes) - Simple homes plugin
