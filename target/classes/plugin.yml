@@ -1,0 +1,18 @@
+name: teepeerequests
+version: 1.0
+main: com.thefancychiken.teepeerequests.TeePeeRequests
+api-version: 1.20
+commands:
+  tpa:
+    description: Request to tp to another player
+    usage: "/tpa"
+  tphere:
+    description: Request another player to TP to you
+    usage: "/tphere"
+  tpaccept:
+    description: Accept a tp request from another player
+    usage: "/tpaccept"
+  tpdeny:
+    description: Deny a tp request from another player
+    usage: "/tpdeny"
+  
